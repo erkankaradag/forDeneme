@@ -17,10 +17,10 @@ namespace forExample1
 }
 */
 
-//-------------------------------------------------------------------------------------------------
+//----------------------------------//1-20 arasındaki sayıları konsola yazdırma---------------------------------------------------------------
 
 /* APLICATION 2
-                                    //1-20 arasındaki sayıları konsola yazdırma
+                                   
 using System;
 namespace forExample2
 {
@@ -37,10 +37,10 @@ namespace forExample2
 }
 */
 
-//-------------------------------------------------------------------------------------------------
+//----------------------------------//1-20 arasındaki çift sayıları yazdırma---------------------------------------------------------------
 
 /* APLICATION 3
-                                    //1-20 arasındaki çift sayıları yazdırma
+                                    
 using System;
 namespace forExample3
 {
@@ -60,10 +60,10 @@ namespace forExample3
 }
 */
 
-//-------------------------------------------------------------------------------------------------
+//----------------------------------//50 ile 150 arasındaki sayıların toplamını yazdırma---------------------------------------------------------------
 
 /* APLICATION 4
-                                    //50 ile 150 arasındaki sayıların toplamını yazdırma
+                                   
 using System;
 namespace forExample4
 {
@@ -84,10 +84,10 @@ namespace forExample4
 }
 */
 
-//-------------------------------------------------------------------------------------------------
+//----------------------------------//1 ile 120 arasındaki tek ve çift sayıların toplamlarını ayrı ayrı yazdırma---------------------------------------------------------------
 
 /* APLICATION 5
-                                    //1 ile 120 arasındaki tek ve çift sayıların toplamlarını ayrı ayrı yazdırma
+                                    
 using System;
 namespace forExample5
 {
