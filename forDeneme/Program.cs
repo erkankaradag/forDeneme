@@ -1,4 +1,4 @@
-﻿/* APPLICATION 1
+/* APPLICATION 1
                                     //Konsol ekranına 10 kere "Kendime inanıyorum, ben bu yazılım işini hallederim!" yazdırma
 using System;
 
